@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495491000278",
+    "firebase_url": "https://drcalory-509d7.firebaseio.com",
+    "project_id": "drcalory-509d7",
+    "storage_bucket": "drcalory-509d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495491000278:android:f25dfa56bc1be439c9a677",
+        "android_client_info": {
+          "package_name": "com.training.drcalory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495491000278-59bn4r5o3ak3psans4pfumgn5h87jlgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRyPo-HOFAFZTi-Dsg-wAKIsEgXjmbhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495491000278-59bn4r5o3ak3psans4pfumgn5h87jlgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

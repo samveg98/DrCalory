@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.training.drcalory.ui.home.HomeFragment"
+        android:label="Dr Calory"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_dietPlan"
+        android:name="com.training.drcalory.ui.DietPlan_Activity"
+        android:label="Diet Plan"
+        tools:layout="@layout/activity_diet_plan" />
+
+    <fragment
+        android:id="@+id/nav_askDr"
+        android:name="com.training.drcalory.ui.AskDoctor_Activity"
+        android:label="Ask Dr"
+        tools:layout="@layout/activity_ask_doctor" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.training.drcalory.ui.Profile_Activity_main"
+        android:label="Profile"
+        tools:layout="@layout/activity_profile" />
+
+    <fragment
+        android:id="@+id/nav_package"
+        android:name="com.training.drcalory.ui.Package_Activity"
+        android:label="Package"
+        tools:layout="@layout/activity_package" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.training.drcalory.ui.Logout_Activity"
+        android:label="Logout"
+        tools:layout="@layout/activity_logout" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.training.drcalory.ui.Share_Activity"
+        android:label="Share"
+        tools:layout="@layout/activity_share" />
+
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.training.drcalory.ui.HelpFeedback_Activity"
+        android:label="Help and Feedback"
+        tools:layout="@layout/activity_helpfeedback" />
+</navigation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_dietPlan"
+            android:icon="@drawable/diet_plan"
+            android:title="Diet Plan" />
+        <item
+            android:id="@+id/nav_askDr"
+            android:icon="@drawable/chat"
+            android:title="Ask Doctor" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_package"
+            android:icon="@drawable/payment"
+            android:title="Package" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/lock"
+            android:title="Logout" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/help"
+                android:title="Help and Feedback" />
+
+        </menu>
+    </item>
+
+</menu>

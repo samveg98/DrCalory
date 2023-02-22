@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">DrCalory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="stage_process"> <u>3-Stage Process</u> </string>
+    <string name="choose_a"><b>a) Duration -</b> 3, 6 or 12 months and</string>
+    <string name="choose_b"><b>b) With whom -</b> Nutritionist, team or a joint program</string>
+
+    <string name="about1">The food we eat has a significant impact on our health, according to a number of scientific studies. Changes in diet can help prevent or control many health problems, including obesity, diabetes and certain risk factors for cancer and heart disease.</string>
+
+    <string name="about2">We will educate you about how food effects your health, fitness and productivity. You take control and ownership of what you like to eat and how you like to workout not just for the duration of the program but for good. </string>
+
+    <string name="work_with">We work with clients across continents, across
+        economical strata, across professions, across age groups and genders. From students
+        to working women to CEO’s to politicians to school teachers to home makers, from
+        those looking simply for weight loss, to those struggling with PCOD and Hypothyroid,
+        to diabetics, heart patients and cancer fighters, we have a diverse and varied clientele.
+        It’s a testament to our belief that the fundamentals of eating right and exercising right
+        are valid for everyone, and all we do is fine tune them to personal requirements.</string>
+
+    <string name="work_globally">Our exclusive consultation program is designed to be followed from across the globe. The appointments happen over skype/facetime/ phone as per your convenience. Of course if you are in Mumbai we look forward to meeting you in our office in Khar west and chatting over a cup of chai. Do note that we have no representative or authorized centre anywhere across the globe apart from our Mumbai office.</string>
+
+    <string name="mithar"> Mitahar is India\'s ancient wisdom that teaches you to eat local,
+        seasonal foods and celebrate homegrown culinary knowledge so that you may experience a
+        higher sense of wellbeing in your body and a better sense of harmony with your surroundings.
+        It accounts for the fact that every human being is unique and that season, location,
+        stresses, lifestyle, attitude, family, work, friends, everything plays an important role
+        in deciding what your body needs at a given time.</string>
+
+    <string name="whatMithar">P.S.: I like to call my nutrition program "mitahar" because
+        I believe in intelligent and insightful eating and that there is more to life than
+        how much you weigh. It will educate you to make intelligent choices about food and
+        exercise, taking into account your lifestyle and your fitness goals, and will keep
+        you young in your body and sharp in your mind. Sounds good? Will you lose weight? Yes,
+        as a by-product!</string>
+
+    <string name="stage1_1">You fill the ‘Getting to know you’ sheet to help us figure out your
+        existing eating pattern and workout routine, expectations from the program and health
+        parameters which are important to you</string>
+    <string name="stage1_2">An appointment schedule is generated for the duration of the program
+        based on your time and day preferences.</string>
+    <string name="stage1_3">A document with easy guidelines to implement before your first
+        appointment is shared.</string>
+
+    <string name="stage2_1">You start off with an hour long first meeting where we work
+        together on devising an eating pattern that is sustainable and a culture fit.</string>
+    <string name="stage2_2">Weekly interactions to review and alter your meal and exercise plans.</string>
+    <string name="stage2_3">Phone, Whatsapp and email support throughout for all of your queries.</string>
+    <string name="stage2_4">Special meal planning for special occasions like work travel, holiday,
+        wedding, festivals, etc.</string>
+
+    <string name="stage3_1">We maintain a lifelong relation with you and provide support anytime you need.</string>
+    <string name="stage3_2">A post- consultation document summarizing all the learnings from the program
+        and also practical guidelines for most of the situations you will face going forward.</string>
+
+</resources>
